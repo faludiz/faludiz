@@ -2,17 +2,7 @@
 
 földmérő, térinformatikus, szoftver fejlesztő
 
-## Földmérés
-
-ingatlan rendezés, mérnök geodézia
-
-## Térinforatika
-
-adatgyűjtés, elemzés, e-közmű
-
-## Szoftver fejlesztés
-
-geodéziai és térinformatikai szoftverek fejlesztése
+https://zoltan.faludi.info
 
 <!---
 faludiz/faludiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
