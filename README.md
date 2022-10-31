@@ -1,8 +1,31 @@
 # Faludi Zoltán
 
-földmérő, térinformatikus, szoftver fejlesztő
+## Földmérő, térinformatikus, szoftver fejlesztő
 
-https://zoltan.faludi.info
+- [IntelliGEO Kft](https://intelligeo.hu) - geodézia, térinformatika
+- [IntelliDOMUS](https://intellidomus.hu) - ingatlan iroda
+- [E:Közmű](https://ekozmu.hu) - E-közmű szolgáltatások
+- [YASC](https://yasc.hu) - geodéziai szoftver
+
+## Jogosultságok
+
+- Földmérő igazolvány: [10008](https://lechnerkozpont.hu/oldal/foldmero-igazolvanyok-publikus-listaja)
+- Ingatlanrendezői minősítés: [1740/2002](https://lechnerkozpont.hu/oldal/ingatlanrendezoi-nevjegyzek-publikus-valtozata)
+- MMK GD-T: [02-1223](https://www.mmk.hu/nevjegyzek?id=54947)
+
+## Szolgáltatások
+
+- földmérés
+- térinformatika
+- fotogrammetria
+
+## Alkalmazott technológiák, szoftverek
+
+- Geodézia: [ITR](http://www.itr.hu/), [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- Térinformatika: [QGIS](https://qgis.org), [GeoServer](https://geoserver.org/)
+- OS: [Pop!_OS](https://pop.system76.com/), [Debian](https://debian.org), [Ubuntu](https://ubuntu.com), [Windows](https://www.microsoft.com/windows/)
+- Iroda: [LibreOffice](https://libreoffice.org)
+- Szoftver fejlesztés: [Python](https://www.python.org/), [Lazarus](https://www.lazarus-ide.org/)
 
 <!---
 faludiz/faludiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
