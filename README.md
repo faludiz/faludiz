@@ -15,7 +15,7 @@
 
 ## Szolgáltatások
 
-- földmérés
+- geodézia / földmérés
 - térinformatika
 - fotogrammetria
 
