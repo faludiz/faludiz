@@ -27,6 +27,8 @@
 - Iroda: [LibreOffice](https://libreoffice.org)
 - Szoftver fejlesztés: [Python](https://www.python.org/), [Lazarus](https://www.lazarus-ide.org/)
 
+Hívj meg egy kávéra: https://www.buymeacoffee.com/faludiz
+
 <!---
 faludiz/faludiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
