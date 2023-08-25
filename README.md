@@ -1,4 +1,4 @@
-# [Faludi Zoltán](cv.md)
+# Faludi Zoltán
 
 ## Földmérő, térinformatikus, szoftver fejlesztő
 
