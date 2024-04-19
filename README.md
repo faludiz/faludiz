@@ -1,4 +1,4 @@
-# Faludi Zoltán
+# [Faludi Zoltán](https://github.com/faludiz?tab=repositories)
 
 ## Földmérő, térinformatikus, szoftver fejlesztő
 
