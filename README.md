@@ -9,8 +9,8 @@
 
 ## Jogosultságok
 
-- Földmérő igazolvány: [10008](https://lechnerkozpont.hu/oldal/foldmero-igazolvanyok-publikus-listaja)
-- Ingatlanrendezői minősítés: [1740/2002](https://lechnerkozpont.hu/oldal/ingatlanrendezoi-nevjegyzek-publikus-valtozata)
+- Földmérő igazolvány: [10008](https://geoszaki-portal.eing.foldhivatal.hu/szakertok/3d352309-c5f0-4327-94b2-a9d0da390be1)
+- Ingatlanrendezői minősítés: [1740/2002](https://geoszaki-portal.eing.foldhivatal.hu/szakertok/3d352309-c5f0-4327-94b2-a9d0da390be1)
 - MMK GD-T: [02-1223](https://www.mmk.hu/nevjegyzek?id=54947)
 
 ## Szolgáltatások
