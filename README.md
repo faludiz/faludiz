@@ -21,7 +21,7 @@
 
 ## Alkalmazott technológiák, szoftverek
 
-- Geodézia: [ITR](http://www.itr.hu/), [AutoCAD](https://www.autodesk.com/products/autocad/overview)
+- Geodézia: [FreeTR](https://freetr.hu), [ITR](http://www.itr.hu/), [AutoCAD](https://www.autodesk.com/products/autocad/overview)
 - Térinformatika: [QGIS](https://qgis.org), [GeoServer](https://geoserver.org/)
 - OS: [Pop!_OS](https://pop.system76.com/), [Debian](https://debian.org), [Ubuntu](https://ubuntu.com), [Windows](https://www.microsoft.com/windows/)
 - Iroda: [LibreOffice](https://libreoffice.org)
