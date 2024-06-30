@@ -18,6 +18,7 @@
 - geodézia / földmérés
 - térinformatika
 - fotogrammetria
+- szoftver fejlesztés
 
 ## Alkalmazott technológiák, szoftverek
 
