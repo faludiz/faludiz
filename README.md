@@ -28,7 +28,9 @@
 - Iroda: [LibreOffice](https://libreoffice.org)
 - Szoftver fejlesztés: [Python](https://www.python.org/), [Lazarus](https://www.lazarus-ide.org/)
 
-## Hívj meg egy kávéra:
+## Hívj meg egy kávéra
+
+Ha hasznosnak találod a munkámat, és szeretnéd támogatni további tartalmak létrehozását, egy virtuális kávéval nagyban hozzájárulhatsz ehhez.
 
 [![bmc_qr](https://user-images.githubusercontent.com/89804084/208740036-e8d7cd50-1aed-4ae8-a36c-f4d221958299.png)](https://www.buymeacoffee.com/faludiz)
 
