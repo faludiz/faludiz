@@ -30,7 +30,7 @@
 
 ## 📈 GitHub Statisztika
 
-![faludiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faludiz&show_icons=true&theme=radical)
+![faludiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=faludiz&show_icons=true&theme=radical&locale=hu)
 
 ## 🔗 Kapcsolat
 
