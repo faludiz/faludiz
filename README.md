@@ -3,6 +3,7 @@
 ## 🚀 Földmérő, térinformatikus, szoftver fejlesztő
 
 - [IntelliGEO Kft](https://intelligeo.hu) - geodézia, térinformatika
+- [GEOMATIKA](https://geomatika.hu) - professzionális geodéziai műszerek
 - [IntelliDOMUS](https://intellidomus.hu) - ingatlan iroda
 - [E:Közmű](https://ekozmu.hu) - E-közmű szolgáltatások
 - [YASC](https://yasc.hu) - geodéziai szoftver
